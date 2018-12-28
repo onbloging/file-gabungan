@@ -1,0 +1,10 @@
+<style scoped="" type="text/css"> 
+#idulfitri{background:#fa6c92;color:#ffe8a0;font-size:120%;text-align:center;padding:20px 0;font-weight:normal;border-radius:3px;line-height:normal;font-family:'Open Sans',Verdana,Arial,sans-serif}
+.digital,.idjudul {color:#fff}
+</style>
+<div id="idulfitri" 
+    padding-top: 10px;
+    padding-bottom: 10px;>
+<span id="hitungmundur"></span>
+</div>
+<script src="https://raw.githack.com/onbloging/sharing-onbloging/master/count-idulfitri.js" type="text/javascript"></script>
